@@ -1,0 +1,61 @@
+2
+es
+25
+Español
+Gestión de Transacciones
+Archivo
+Operaciones
+Idioma
+Ayuda
+Alta
+Baja
+Consulta
+Modificación
+Salir
+Aceptar
+Cancelar
+ID de transacción
+Fecha
+Importe
+Error
+Acerca de
+Ya existe una transacción con ese ID.
+No existe ninguna transacción con ese ID.
+Hay campos obligatorios vacíos.
+La fecha no es válida (use aaaa-mm-dd).
+El importe no es un número válido.
+Error al leer o escribir el archivo de datos.
+Operación completada
+2
+./img/bandEs.png
+./img/isaac.jpg
+en
+25
+English
+Transaction Manager
+File
+Operations
+Language
+Help
+Add
+Delete
+Search
+Modify
+Exit
+OK
+Cancel
+Transaction ID
+Date
+Amount
+Error
+About
+A transaction with that ID already exists.
+No transaction exists with that ID.
+Required fields are empty.
+The date is not valid (use yyyy-mm-dd).
+The amount is not a valid number.
+Error reading or writing the data file.
+Operation completed
+2
+./img/bandEn.png
+./img/fotoEn.jpg
